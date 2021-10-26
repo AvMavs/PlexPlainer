@@ -15,4 +15,5 @@ People make Plex servers so that they can unify all the content they watch into 
 
 So, a streaming service, as huge as the big-name brands I mentioned above run on huge servers. What is a server, you ask? It's just a bunch of really fast computers in a cold room, connected to lots of other computers. Yes, that's it. They're way faster than your home computer, though. 
 
-When you stream off of a service, you're just playing off of one
+When you stream off of a service, you're just playing off of one of these servers. So, you connect, via the benevelont internet, which is just a bunch of cables and computers, 
+to one of these computers which stores the video which you want to watch. 
