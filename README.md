@@ -1,4 +1,4 @@
-# Plex-Explainer
+# PlexPlainer
 What exactly is this Plex thing your techie friends keep rambling about? Here's everything you need.
 
 So, your friend is into technology a lot, and assumingly, PCs and internet. And they sent you this invite to their "Plex Server", which they want you to join. Is it safe? Are they going to hack you? Or are they reaching out with a friendly initiative, that allows them to share media?
